@@ -19,12 +19,12 @@ The final system can:
 
 🏗️ Project Architecture
 text
-├── comp2211_pa2.py          # Main program
-├── cnn_model.keras          # Trained CNN classification model
-├── auto_encoder.keras       # Trained autoencoder denoising model
-├── Pokemon-images.zip       # Original dataset
-├── images/                  # Extracted images (includes augmented data)
-└── README.md                # Project documentation
+├── Pokémon CAPTCHA Solver.py          # Main program
+├── cnn_model.keras                    # Trained CNN classification model
+├── auto_encoder.keras                 # Trained autoencoder denoising model
+├── Pokemon-images.zip                 # Original dataset
+├── images/                            # Extracted images (includes augmented data)
+└── README.md                          # Project documentation
 🧩 Core Features
 1. Data Augmentation
 Translation: Random shifts in x/y directions
