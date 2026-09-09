@@ -1,5 +1,6 @@
 # Pok-mon-CAPTCHA-Solver
 This project implements a deep learning-based CAPTCHA solving system
+
 🔍 Convolutional Neural Network (CNN) - Classifies 10 Pokémon species
 
 🧹 Convolutional Autoencoder - Removes image noise
